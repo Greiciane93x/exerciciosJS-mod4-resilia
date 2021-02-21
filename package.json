@@ -4,7 +4,7 @@
   "description": "",
   "main": "exercicios.js",
   "scripts": {
-    "start": "nodemon treinando.js",
+    "start": "nodemon treinando2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,8 @@
   "homepage": "https://github.com/Greiciane93x/Exerc-cios-JS---M-dulo-4-Resilia-#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
+    "currency-formatter": "^1.5.6",
+    "moment": "^2.29.1",
     "nodemon": "^2.0.7"
   }
 }
